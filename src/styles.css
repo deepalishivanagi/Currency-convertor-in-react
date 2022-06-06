@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+html {
+  background-image: linear-gradient(to bottom right, #059669, #292524);
+  background-repeat: no-repeat;
+  height: 100%;
+}
+.App h1 {
+  background: linear-gradient(155deg, white, #292524);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: xxx-large;
+  text-shadow: 1px 34px 8px rosybrown;
+}
+.App div {
+  margin: 0.5rem 1rem 0.5rem 1rem;
+}
+.App button {
+  margin: 1rem 1rem 1rem 1rem;
+  font-size: medium;
+  border-radius: 0.5rem;
+  color: white;
+  background-color: #292524;
+}
+.App input {
+  font-size: medium;
+  border-radius: 0.5rem;
+  color: white;
+  background-color: #292524;
+}
+.dropdown-main select {
+  font-size: medium;
+  border-radius: 0.5rem;
+  color: white;
+  background-color: #292524;
+}
+.App #output {
+  background: linear-gradient(white, black);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
